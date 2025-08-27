@@ -3,6 +3,7 @@
 Accessibility-first UI/UX designer and IT graduate with a strong foundation in Java, HTML, CSS, and Python. Currently expanding my skills in JavaScript, Bootstrap, and Tailwind while creating inclusive, user-friendly designs.
 
 ![nguyen-lisa's Stats](https://github-readme-stats.vercel.app/api?username=nguyen-lisa&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+
 ![nguyen-lisa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyen-lisa&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
 ## 🚀 About Me
