@@ -2,20 +2,12 @@
 
 Accessibility-first UI/UX designer and IT graduate with a strong foundation in Java, HTML, CSS, and Python. Currently expanding my skills in JavaScript, Bootstrap, and Tailwind while creating inclusive, user-friendly designs.
 
-![nguyen-lisa's Stats](https://github-readme-stats.vercel.app/api?username=nguyen-lisa&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
-
-![nguyen-lisa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyen-lisa&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
-
 ## 🚀 About Me
 
 - 🖌️ I love turning ideas into clean, accessible designs in Figma.
 - 💻 I build with HTML, CSS, Java, and a little bit of Python — and I’m learning JavaScript, React, and TypeScript.
 - 🚀 Currently experimenting with Bootstrap and Tailwind to bring my designs to life on the web.
 - 🌍 Big believer that good design is inclusive design — accessibility isn’t optional.
-
-
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=figma,html,css,java,python,js,react,ts,bootstrap,tailwind,git,github)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
