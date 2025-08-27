@@ -1,7 +1,37 @@
-## Hi there 👋
+# Hi, I'm Lisa! 👋
+
+Accessibility-first UI/UX designer and IT graduate with a strong foundation in Java, HTML, CSS, and Python. Currently expanding my skills in JavaScript, Bootstrap, and Tailwind while creating inclusive, user-friendly designs.
+
+![nguyen-lisa's Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+## 🚀 About Me
+
+- 🖌️ I love turning ideas into clean, accessible designs in Figma.
+- 💻 I build with HTML, CSS, Java, and a little bit of Python — and I’m learning JavaScript, React, and TypeScript.
+- 🚀 Currently experimenting with Bootstrap and Tailwind to bring my designs to life on the web.
+- 🌍 Big believer that good design is inclusive design — accessibility isn’t optional.
+
+
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=figma,html,css,java,python,js,react,ts,bootstrap,tailwind,git,github)](https://skillicons.dev)
+
+## 🌱 Currently Exploring
+
+🎨 Strengthening UI/UX design with a focus on accessibility and inclusive design principles.
+🚀 Expanding front-end skills: learning JavaScript and diving into React + TypeScript.
+🖌️ Experimenting with Bootstrap and Tailwind CSS to create clean, responsive interfaces.
+🐍 Practicing Python for scripting and small projects to broaden my development toolkit.
+🔧 Building confidence in version control and collaboration with Git and GitHub.
+
+## 📬 Get in Touch
+
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/lisa-nguyen-48825a160/)
+
+Thanks for scrolling all the way down here 👋 let’s connect and turn ideas into accessible designs!
+
+
 
 <!--
-**nguyen-lisa/nguyen-lisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
