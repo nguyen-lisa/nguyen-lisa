@@ -11,11 +11,11 @@ Accessibility-first UI/UX designer and IT graduate with a strong foundation in J
 
 ## 🌱 Currently Exploring
 
-🎨 Strengthening UI/UX design with a focus on accessibility and inclusive design principles.
-🚀 Expanding front-end skills: learning JavaScript and diving into React + TypeScript.
-🖌️ Experimenting with Bootstrap and Tailwind CSS to create clean, responsive interfaces.
-🐍 Practicing Python for scripting and small projects to broaden my development toolkit.
-🔧 Building confidence in version control and collaboration with Git and GitHub.
+- 🎨 Strengthening UI/UX design with a focus on accessibility and inclusive design principles.
+- 🚀 Expanding front-end skills: learning JavaScript and diving into React + TypeScript.
+- 🖌️ Experimenting with Bootstrap and Tailwind CSS to create clean, responsive interfaces.
+- 🐍 Practicing Python for scripting and small projects to broaden my development toolkit.
+- 🔧 Building confidence in version control and collaboration with Git and GitHub.
 
 ## 📬 Get in Touch
 
