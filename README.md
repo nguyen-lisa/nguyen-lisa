@@ -7,7 +7,7 @@ Accessibility-first UI/UX designer and IT graduate with a strong foundation in J
 - 🖌️ I love turning ideas into clean, accessible designs in Figma.
 - 💻 I build with HTML, CSS, Java, and a little bit of Python — and I’m learning JavaScript, React, and TypeScript.
 - 🚀 Currently experimenting with Bootstrap and Tailwind to bring my designs to life on the web.
-- 🌍 Big believer that good design is inclusive design — accessibility isn’t optional.
+- 🌍 Big believer that good design is inclusive design - accessibility isn’t optional.
 
 ## 🌱 Currently Exploring
 
