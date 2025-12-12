@@ -2,6 +2,8 @@
 
 Accessibility-first UI/UX designer and full-stack developer specializing in inclusive, user-centered design. I design and build WCAG and AODA compliant interfaces using React, TypeScript, JavaScript, HTML, and CSS.
 
+[![Lisa Nguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyen-lisa)](https://github.com/nguyen-lisa)
+
 ## 🚀 About Me
 
 🖌️ I turn ideas into clean, accessible designs in Figma and bring them to life in code.
