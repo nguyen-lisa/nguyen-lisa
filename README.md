@@ -1,21 +1,23 @@
 # Hi, I'm Lisa! 👋
 
-Accessibility-first UI/UX designer and IT graduate with a strong foundation in Java, HTML, CSS, and Python. Currently expanding my skills in JavaScript, Bootstrap, and Tailwind while creating inclusive, user-friendly designs.
+Accessibility-first UI/UX designer and full-stack developer specializing in inclusive, user-centered design. I design and build WCAG and AODA compliant interfaces using React, TypeScript, JavaScript, HTML, and CSS.
 
 ## 🚀 About Me
 
-- 🖌️ I love turning ideas into clean, accessible designs in Figma.
-- 💻 I build with HTML, CSS, Java, and a little bit of Python - and I’m learning JavaScript, React, and TypeScript.
-- 🚀 Currently experimenting with Bootstrap and Tailwind to bring my designs to life on the web.
-- 🌍 Big believer that good design is inclusive design - accessibility isn’t optional.
+🖌️ I turn ideas into clean, accessible designs in Figma and bring them to life in code.
+💻 I build with React, TypeScript, JavaScript, HTML, and CSS to create responsive, keyboard-navigable UIs.
+🎨 Tailwind CSS is my go-to for rapid, maintainable styling.
+♿ I believe good design is inclusive design, accessibility is not optional, it is fundamental.
+
+I regularly audit and refine experiences using Lighthouse and axe DevTools to catch accessibility issues early in the design and development process.
 
 ## 🌱 Currently Exploring
 
-- 🎨 Strengthening UI/UX design with a focus on accessibility and inclusive design principles.
-- 🚀 Expanding front-end skills: learning JavaScript and diving into React + TypeScript.
-- 🖌️ Experimenting with Bootstrap and Tailwind CSS to create clean, responsive interfaces.
-- 🐍 Practicing Python for scripting and small projects to broaden my development toolkit.
-- 🔧 Building confidence in version control and collaboration with Git and GitHub.
+♿ Deepening accessibility expertise with WCAG, AODA requirements, and robust ARIA patterns.
+🐍 Learning Python for web scraping and automation to expand my technical toolkit.
+🔧 Building Chrome extensions and experimenting with browser APIs.
+🎯 Exploring design systems and component libraries for scalable, consistent UI architectures.
+📚 Strengthening Git workflows and contributing to open-source projects.
 
 ## 📬 Get in Touch
 
