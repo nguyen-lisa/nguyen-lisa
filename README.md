@@ -1,8 +1,7 @@
 # Hi, I'm Lisa! 👋
 
 Accessibility-first UI/UX designer and full-stack developer specializing in inclusive, user-centered design. I design and build WCAG and AODA compliant interfaces using React, TypeScript, JavaScript, HTML, and CSS.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyen-lisa)](https://github.com/nguyen-lisa)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyen-lisa&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 ## 🚀 About Me
 
